@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://gayamgayam.github.io/Tienda-Virtual-master/</loc>
+        <lastmod>2024-08-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://gayamgayam.github.io/Tienda-Virtual-master/nosotros.html</loc>
+        <lastmod>2024-08-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://gayamgayam.github.io/Tienda-Virtual-master/productos.html</loc>
+        <lastmod>2024-08-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+      <url>
+        <loc>https://gayamgayam.github.io/Tienda-Virtual-master/contacto.html</loc>
+        <lastmod>2024-08-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+     <url>
+        <loc>https://gayamgayam.github.io/Tienda-Virtual-master/carrito.html</loc>
+        <lastmod>2024-08-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>
