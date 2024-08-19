@@ -15,7 +15,7 @@ class Carrito{
             titulo : producto.querySelector('h5').textContent,
             precio : producto.querySelector('.precio').textContent,
             id : producto.querySelector('a').getAttribute('data-id'),
-            cantidad : 5
+            cantidad : 1
         }
         let productosLS;
         productosLS = this.obtenerProductosLocalStorage();
